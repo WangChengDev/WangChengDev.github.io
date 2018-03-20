@@ -812,4 +812,4 @@ images: images
 # Theme version
 version: 5.1.4
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
